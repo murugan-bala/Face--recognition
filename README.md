@@ -7,3 +7,4 @@ Installation:
 3. pip install scipy==1.1.0
 4. pip install requests
 5. pip install face_recognition
+6. pip install flask
